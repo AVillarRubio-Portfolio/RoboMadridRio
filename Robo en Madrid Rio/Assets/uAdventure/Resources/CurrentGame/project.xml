@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment> Project Configuration </comment>
+<entry key="Chapter0.SceneMenu.X">299</entry>
+<entry key="Chapter0.SceneMenu.Y">-4</entry>
+<entry key="Chapter0.InicioAutomatico1.X">71</entry>
+<entry key="Chapter0.InicioAutomatico1.Y">285</entry>
+<entry key="Chapter0.ScenePedro.X">367</entry>
+<entry key="Chapter0.ScenePedro.Y">290</entry>
+</properties>
